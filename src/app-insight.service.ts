@@ -65,7 +65,7 @@ export class AppInsightsConfig implements Microsoft.ApplicationInsights.IConfig 
   disableInstrumentaionKeyValidation?: boolean;
   enablePerfMgr?: boolean;
   perfEvtsSendAll?: boolean;
-  
+  excludeRequestFromAutoTrackingPatterns?: string[] | RegExp[];
 }
 
 @Injectable()
