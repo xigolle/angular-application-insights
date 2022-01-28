@@ -13,7 +13,7 @@
   "homepage": "https://trilon.io",
   "repository": {
     "type": "git",
-    "url": "https://github.com/TrilonIO/angular-application-insights"
+    "url": "https://github.com/xigolle/angular-application-insights"
   },
   "author": {
     "name": "Xigolle"
