@@ -1,6 +1,6 @@
 {
-  "name": "@markpieszak/ng-application-insights",
-  "description": "Microsoft Azure Application Insights for Angular - Brought to you by Trilon.io",
+  "name": "@xigolle/ng-application-insights",
+  "description": "Microsoft Azure Application Insights for Angular Fork - Forked from https://github.com/TrilonIO/angular-application-insights",
   "version": "9.0.1",
   "scripts": {
     "lint": "tslint -p tsconfig.json",
@@ -16,13 +16,11 @@
     "url": "https://github.com/TrilonIO/angular-application-insights"
   },
   "author": {
-    "name": "Mark Pieszak | Trilon Consulting",
-    "email": "hello@trilon.io",
-    "url": "https://trilon.io"
+    "name": "Xigolle"
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/TrilonIO/angular-application-insights/issues"
+    "url": "https://github.com/xigolle/angular-application-insights/issues"
   },
   "main": "./dist/index.js",
   "types": "./dist/index.d.ts",
@@ -62,8 +60,6 @@
     "microsoft application insights",
     "ms app insights",
     "aspnet core app insights",
-    "trilon",
-    "trilon.io",
     "angular2",
     "angular7",
     "angular8",
